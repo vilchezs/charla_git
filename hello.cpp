@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main(int arg){
+int main(){
 
  std::cout<<"hello"<<'\n';
  return 0;
